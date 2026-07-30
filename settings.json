@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MyBrotherIsGay",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Brothersever-fShS.aternos.me:14029",
-    "port": 27586,
+    "ip": "Brothersever-fShS.aternos.me",
+    "port": 14029,
     "version": "",
     "try-creative": false
   },
